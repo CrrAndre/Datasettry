@@ -1,0 +1,17 @@
+# Archivos generados por los scripts
+datasets/tabla_dinamica_ventas.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
